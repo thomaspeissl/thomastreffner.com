@@ -26,3 +26,5 @@ Brave is availabe for many platforms. Check the official website.
 
 For android you can get Brave browser from Google's Play Store.
 [Brave in Play Store](https://play.google.com/store/apps/details?id=com.brave.browser)
+
+[Edit this post](https://github.com/treffner/thomastreffner.com/blob/main/content/en/posts/brave_web_browser.md)
