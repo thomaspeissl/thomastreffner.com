@@ -21,7 +21,7 @@ The most controversial thing is its reward program.
 You earn Brave's crypto currency called BAT by opting into ads. Then you can tip content creators with your BATs.
 This reminds many about what other ad-blocker did in the past. Block the website owner's ads and show theirs instead.
 
-Brave is availabe for many platforms. Check to official website.
+Brave is availabe for many platforms. Check the official website.
 [Brave Website](https://brave.com)
 
 For android you can get Brave browser from Google's Play Store.
