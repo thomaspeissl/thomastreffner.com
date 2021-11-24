@@ -6,6 +6,8 @@ date: 2021-09-23T21:37:11+01:00
 image: images/blog/brave-web-browser.jpg
 ---
 {{< featuredImage >}}
+## Intro
+
 How can we get a mostly **ad-free** web browsing experience that is **easy to setup**, doesn't break too much websites and somewhat **protects our privacy**?
 
 Brave browser is a controversial **open source** browser by JavaScript creator **Brendan Eich**.
