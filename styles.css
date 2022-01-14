@@ -584,12 +584,14 @@ canvas {
 	src: url('circular.woff') format('woff');
 	font-weight: normal;
 	font-style: normal;
+	font-display: swap;
 }
 @font-face{
   font-family:'entypo';
   src: url('entypo.woff') format('woff');
   font-weight:normal;
   font-style:normal;
+  font-display: swap;
 }
 [class^="ent-"], [class*=" ent-"] {
   display: inline;
