@@ -4,7 +4,7 @@ Personal website of Thomas Treffner.
 
 ## Credits
 
-- General inspiration from https://www.vantajs.com/ by @tengbao
+- General inspiration and birds effect from https://www.vantajs.com/ by @tengbao
 - Birds effect from https://threejs.org/examples/?q=birds#webgl_gpgpu_birds by @zz85
 
 ##  License
