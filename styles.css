@@ -386,8 +386,10 @@ h2 {
   font-size: 24px;
   margin-bottom: 15px;
 }
-h3,
-h4 {
+h2.hero {
+  margin-bottom: 0;
+}
+h3,h4,h2.hero {
   font-size: 1.5em;
   line-height: 1.25;
 }
@@ -419,7 +421,7 @@ h4.strong {
   h2 {
     font-size: 30px;
   }
-  h3 {
+  h3,h2.hero {
     font-size: 1.25em;
   }
 }
