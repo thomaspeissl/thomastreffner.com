@@ -615,3 +615,31 @@ canvas {
 .ent-github:before { content: '\e8e3'; } /* '' */
 .ent-github-circled:before { content: '\e8e4'; } /* '' */
 
+ul.features {
+  list-style: disc;
+  font-size: 16px;
+  margin-left: 1.75em;
+  line-height: 1.4;
+  margin-bottom: 40px;
+  color: #568;
+}
+ul.features li {
+  margin-bottom: 8px;
+}
+ul.features.small {
+  font-size: 90%;
+  margin-bottom: 10px;
+}
+ul.features.small li {
+  margin-bottom: 0;
+}
+.donate {
+  display: block;
+  text-align: center;
+  margin-bottom: 20px;
+  padding: 20px 10px;
+  transition: all 0.1s;
+}
+.donate:hover {
+  opacity: 0.75;
+}
